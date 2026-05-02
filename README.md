@@ -125,7 +125,7 @@ Before you begin, ensure you have the following installed:
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Yogeshpant942/MyVisionMate.git
+git clone https://github.com/AgamPandey133/MyVisionMate.git
 cd MyVisionMate
 ```
 
@@ -354,7 +354,7 @@ We welcome contributions from the community! Here's how you can help:
 
 ### Reporting Issues
 
-Found a bug? Have a suggestion? [Open an issue](https://github.com/Yogeshpant942/MyVisionMate/issues) with:
+Found a bug? Have a suggestion? [Open an issue](https://github.com/AgamPandey133/MyVisionMate/issues) with:
 - Clear title and description
 - Steps to reproduce (for bugs)
 - Expected vs. actual behavior
@@ -404,9 +404,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📧 Contact & Support
 
-- **Author**: [@Yogeshpant942](https://github.com/Yogeshpant942)
-- **GitHub**: [MyVisionMate Repository](https://github.com/Yogeshpant942/MyVisionMate)
-- **Issues**: [GitHub Issues](https://github.com/Yogeshpant942/MyVisionMate/issues)
+- **Author**: [@AgamPandey133](https://github.com/AgamPandey133)
+- **GitHub**: [MyVisionMate Repository](https://github.com/AgamPandey133/MyVisionMate)
+- **Issues**: [GitHub Issues](https://github.com/AgamPandey133/MyVisionMate/issues)
 - **Email**: your-email@example.com
 
 
@@ -422,10 +422,10 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 
-**Made with ❤️ by [Yogeshpant942](https://github.com/Yogeshpant942) | 100% Kotlin**
+**Made with ❤️ by [AgamPandey133](https://github.com/AgamPandey133) | 100% Kotlin**
 
 If you find this project helpful, please consider giving it a ⭐ star!
 
-[Report Bug](https://github.com/Yogeshpant942/MyVisionMate/issues) • [Request Feature](https://github.com/Yogeshpant942/MyVisionMate/issues) • [Discussions](https://github.com/Yogeshpant942/MyVisionMate/discussions)
+[Report Bug](https://github.com/AgamPandey133/MyVisionMate/issues) • [Request Feature](https://github.com/AgamPandey133/MyVisionMate/issues) • [Discussions](https://github.com/AgamPandey133/MyVisionMate/discussions)
 
 </div>
